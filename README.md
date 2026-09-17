@@ -220,4 +220,4 @@ Freeciv is the complete free version with all features and updates included. The
 Ready to dive into the world of strategy? **Download Freeciv now and lead your civilization to greatness!**
 
 ---
-**Last updated:** 2026-09-16 22:47:26 UTC
+**Last updated:** 2026-09-17 01:13:31 UTC
